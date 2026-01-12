@@ -1,0 +1,42 @@
+Below is a How-to guide for the Ping Pong Masters game on your phone, compiled based on the technical logic from your source code:
+
+🏓 PING PONG MASTERS PLAY INSTRUCTIONS
+Starting a match: Tap the screen to start a round and prepare to receive or serve the ball.
+
+Movement of the racket: Use your finger to press, hold, and drag on the screen to control the racket's movement as desired.
+
+Movement range: You can drag the racket left/right to receive the ball and forward/backward to adjust the hitting distance.
+
+Serving mechanism: When it's your turn, lightly touch the ball with the racket to serve to your opponent's court.
+
+Hitting the ball: When the ball comes towards you, move the racket to block its path so the ball bounces back to the AI ​​court.
+
+Controlling the direction of the shot: The direction of the ball depends on the contact point on the racket and the speed of your hand pull.
+
+Generate powerful shots: Pulling your arm faster upon ball contact will create a more powerful and faster shot.
+
+Automatic racket rotation: The racket will automatically rotate according to your position on the table, helping you direct the ball to tricky corners.
+
+Scoring rules: You score points if the ball hits your opponent's table and then goes out, or if your opponent fails to return the ball.
+
+Net contact foul: If the ball doesn't go over the net or hits the net and then lands in your own court, the point goes to your opponent.
+
+Out foul: Be careful not to hit the ball directly out of the table without first touching your opponent's table.
+
+AI difficulty levels: There are 3 difficulty levels: Easy, Medium, and Hard to challenge your skills.
+
+AI Hard: At the Hard level, the AI ​​will aim for extremely accurate far corners and launch powerful attacks.
+
+Observe the AI: When the AI ​​"runs," be ready for a very fast and powerful shot.
+
+Personal Color: You can choose the color for your AI opponent from Red, Blue, Green, and Yellow.
+
+Winning the Round: The first player to reach 11 points wins that round.
+
+Best of 3 (Bo3): Win 2 out of 3 rounds to become the overall winner of the tournament.
+
+Reset Position: After each point, the ball and racket will be returned to the starting position to begin a new round.
+
+**Live Sound Effects:** Pay attention to the "beep" sound when the racket hits the ball to feel the rhythm of the match.
+
+Tip: Focus on directing the ball to the sides to make it harder for the AI ​​to move and more prone to mistakes.
